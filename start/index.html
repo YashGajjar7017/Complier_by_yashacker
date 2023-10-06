@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!-- Created By CodingNepal -->
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Gradient Ring or Loader</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="/images/fav.jpg" style="height: 40px;width: 40px;">
+</head>
+
+<body>
+    <div class="outer"></div>
+    <div class="inner">
+        <span title="push to start">0%</span>
+        <h2 style="color: white;" class="text">Loading...</h2>
+    </div>
+    <!-- This is Javascript Code -->
+    <script>
+        let outer = document.querySelector(".outer");
+        let inner = document.querySelector(".inner");
+        let percent = document.querySelector("span");
+        let count = 0;
+        inner.addEventListener('click', function () {
+            let loading = setInterval(function () {
+                if (count == 100) {
+                    outer.classList.remove("active-loader");
+                    outer.classList.add("active-loader-2");
+                    clearInterval();
+                } else {
+                    count = count + 2;
+                    percent.textContent = count + '%';
+                    outer.classList.add("active-loader");
+                    if(count === 100){
+                        window.location.href = '../index.html';
+                    }
+                    else{
+                        // location.reload();
+                    }
+                }
+            }, 100); //decrease time to fast speed
+        });
+    </script>
+</body>
+
+</html>
