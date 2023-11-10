@@ -11,9 +11,9 @@ looks like!..
 
 <br>
 
-<a href="https://yashgajjar7017.github.io/Slide-Puzzle-Canvas/" >Silde puzzle</a>
-<a href="https://yashgajjar7017.github.io/Speed-test-website/" >Speed test</a>
-<a href="https://yashgajjar7017.github.io/Complier_by_yashacker/Yash-Complier/#" >Yash's Complier</a>
+<a href="https://yashgajjar7017.github.io/Slide-Puzzle-Canvas/" >Silde puzzle</a><hr>
+<a href="https://yashgajjar7017.github.io/Speed-test-website/" >Speed test</a><hr>
+<a href="https://yashgajjar7017.github.io/Complier_by_yashacker/Yash-Complier/#" >Yash's Complier</a><hr>
 
 
 
