@@ -10,11 +10,7 @@ Complier_by_yashacker
 looks like!..
 
 <br>
-
-<a href="https://yashgajjar7017.github.io/Slide-Puzzle-Canvas/" >Silde puzzle</a><hr>
-<a href="https://yashgajjar7017.github.io/Speed-test-website/" >Speed test</a><hr>
-<a href="https://yashgajjar7017.github.io/Complier_by_yashacker/Yash-Complier/#" >Yash's Complier</a><hr>
-
-
-
-
+Complier Link (Beta1) : <a href="https://yashgajjar7017.github.io/Complier_by_yashacker/Yash-Complier/#" >Yash's Complier</a><hr>
+Also try out my other games : <br>
+<a href="https://yashgajjar7017.github.io/Slide-Puzzle-Canvas/" >Silde puzzle</a><br>
+<a href="https://yashgajjar7017.github.io/Speed-test-website/" >Speed test</a><br>
