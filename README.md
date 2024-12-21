@@ -10,7 +10,7 @@ Complier_by_yashacker
 looks like!..
 
 <br>
-Complier Link (Beta1) : <a href="https://yashgajjar7017.github.io/Complier_by_yashacker/Yash-Complier/#" >Yash's Complier</a><hr>
+Complier Link (Beta1) : <a href="https://yashgajjar7017.github.io/Human_Error_2k24/" >Human Complier</a><hr>
 Also try out my other games : <br>
 1. <a href="https://yashgajjar7017.github.io/Slide-Puzzle-Canvas/" >Silde puzzle</a><br>
 2. <a href="https://yashgajjar7017.github.io/Speed-test-website/" >Speed test</a><br>
